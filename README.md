@@ -25,13 +25,7 @@ Risk → Volatility
 
 ---
 
-## Milestones
 
-Thursday: Repository setup and organization  
-Friday: Data research and project design  
-Saturday: Web application prototype  
-
----
 
 ## Tech Stack
 
@@ -44,4 +38,4 @@ Streamlit
 
 ## Author
 
-Your Name
+ShahdUsama
